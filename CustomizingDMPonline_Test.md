@@ -15,7 +15,7 @@ Data Management Planning
 
 -   first step towards good Research Data Management
 
-![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/Screenshots/DataLifecycle.png)
+![](/https://github.com/mm449/Test-repo/blob/master/Screenshots/DataLifecycle.png)
 
 The DMPonline.be user interface
 ===============================
