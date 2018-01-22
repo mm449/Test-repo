@@ -1,39 +1,7 @@
-Today's topics
---------------
-
--   The *DMPonline.be* user interface
--   Customizing *DMPonline.be* for your institution
--   Practice
--   Communication & flagging issues
--   Q&A
-
-**Note**: we will be using the preview environment today!
-<https://preview.dmponline.be>
-
-Data Management Planning
-------------------------
-
--   first step towards good Research Data Management
-
-![](https://github.com/mm449/Test-repo/blob/master/Screenshots/DataLifecycle.png)
-
-The DMPonline.be user interface
-===============================
-
-*DMPonline.be* has 3 'areas'
-----------------------------
-
--   user interface ('orange')
--   admin area ('blue')
--   super admin area ('black')
-
-[DMPonline.be preview](https://preview.dmponline.be)
-----------------------------------------------------
-
-![](/Users/Myriam/Desktop/Screenshots/DMPonline/DMPonline_003.jpeg)
-
 Customizing DMPonline.be for your institution
 =============================================
+
+This guide explains how organization admins can use the admin interface of *DMPonline.be* to customize the tool for their institutions.
 
 Credits
 -------
@@ -44,47 +12,51 @@ Credits
 
 -   Digital Curation Centre, *Customising DMPonline for your institution: five steps to follow*. Available at <http://www.dcc.ac.uk/sites/default/files/documents/tools/dmpOnline/DMPonline-customisation-guidelines.pdf>
 
+*DMPonline.be* has 3 'areas':
+-----------------------------
+
+-   a user interface ('orange')
+-   an admin area ('blue')
+-   a super admin area ('black')
+
+End users can view and create DMPs in the 'orange' user interface (see image below). The 'blue' admin area is the interface where organization admins can customize DMPonline.be for their institutions.
+
+![](/Users/Myriam/Desktop/Screenshots/DMPonline/DMPonline_003.jpeg)
+
 Options for institutional customization
 ---------------------------------------
+
+Using the admin area, you can:
 
 -   add institutional DMP templates
 -   add institutional guidance
 -   adapt common (funder) templates
 
-Institutions can have their own DMP template(s)
------------------------------------------------
+### Institutions can have their own DMP template(s)
 
 -   e.g. for researchers not required to write a DMP for a funder
--   multiple templates per institution possible
-
-    > -   different templates for different groups (e.g. different career stages, faculties, research groups...)
+-   multiple templates per institution are possible
+    -   e.g. different templates for different groups (faculties, research groups, researchers at different career stages...)
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_1_InstitutionMultipleTemplates.png)
 
-Main components of an institutional template
---------------------------------------------
+### Main components of an institutional template
 
 -   RDM **questions**, grouped in **sections**
--   **guidance** text to help users answer questions
-
-    > -   good way to provide recommendations, links to institutional online resources, support services, contact details for staff or helpdesks etc.
-
+-   **guidance** text to help users answer the questions
+    -   good way to provide recommendations, links to institutional online resources, support services, contact details for staff or helpdesks etc.
 -   **answer box**, with various formats possible (text field, dropdown, radio buttons,...)
 -   **example/suggested answers** can also be provided
-
-    > -   useful to show kind of response, level of detail required
-
+    -   useful to show the kind of response and/or level of detail required
 -   a template can have multiple **phases**
-
-    > -   e.g. initial DMP created at proposal stage, full DMP during project...
-    > -   idea of DMP as a 'living' document
-
-------------------------------------------------------------------------
+    -   e.g. an initial DMP created at proposal stage, a full DMP written during the project...
+    -   this reflects the idea of a DMP as a 'living' document
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_4_OverviewTemplateV3.png)
 
-Types of guidance
------------------
+### Types of guidance
+
+The table below shows the different types of guidance that can be added in *DMPonline.be*.
 
 <table>
 <colgroup>
@@ -96,7 +68,7 @@ Types of guidance
 <tr class="header">
 <th>question-specific guidance</th>
 <th>themed guidance from organization</th>
-<th>themed guidance from other sources (subset of organization)</th>
+<th>themed guidance from other sources (e.g. from subset of organization)</th>
 </tr>
 </thead>
 <tbody>
@@ -107,7 +79,7 @@ Types of guidance
 </tr>
 <tr class="even">
 <td>automatically opened next to question</td>
-<td>open by clicking '+'-sign</td>
+<td>open by clicking '+' sign</td>
 <td>open by clicking '+' sign</td>
 </tr>
 <tr class="odd">
@@ -123,13 +95,11 @@ Types of guidance
 </tbody>
 </table>
 
-Question-specific vs. themed guidance
--------------------------------------
+#### Question-specific vs. themed guidance
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_5_DifferenceGuidance.png)
 
-Fixed list of guidance themes in DMPonline.be
----------------------------------------------
+### Fixed list of guidance themes in *DMPonline.be*
 
 <table style="width:21%;">
 <colgroup>
@@ -192,19 +162,15 @@ Fixed list of guidance themes in DMPonline.be
 </tbody>
 </table>
 
-More info: S. Jones (2014), [*Using the DMPonline admin interface: a guide to customizing the tool*](http://www.dcc.ac.uk/sites/default/files/documents/tools/dmpOnline/DMPonline-admin-interface-guide.pdf). Appendix 1
+More info about guidance themes: S. Jones (2014), [*Using the DMPonline admin interface: a guide to customizing the tool*](http://www.dcc.ac.uk/sites/default/files/documents/tools/dmpOnline/DMPonline-admin-interface-guide.pdf). Appendix 1
 
-Adapting funder templates
--------------------------
+### Adapting funder templates
 
 -   add questions
-
-    > -   your institution may want extra information that funders don't ask for
-    > -   researchers will probably not want to write a DMP for their funder AND their institution
-
+    -   your institution may want extra information that funders don't ask for
+    -   researchers will probably not want to write a DMP for their funder AND their institution
 -   add suggested/example answers
-
-    > -   to help researchers answer funder questions
+    -   to help researchers answer funder questions
 
 How to customize? Think about content first
 -------------------------------------------
@@ -216,10 +182,9 @@ How to customize? Think about content first
 
 3.  Draft your guidance & example/suggested answers
 
-> -   More info: DCC, [Customising DMPonline for your institution: five steps to follow](http://www.dcc.ac.uk/sites/default/files/documents/tools/dmpOnline/DMPonline-customisation-guidelines.pdf)
+-   More info: DCC, [Customising DMPonline for your institution: five steps to follow](http://www.dcc.ac.uk/sites/default/files/documents/tools/dmpOnline/DMPonline-customisation-guidelines.pdf)
 
-Typical themes covered in a DMP template
-----------------------------------------
+### Typical topics covered in a DMP template
 
 1.  data collection
 2.  data documentation & metadata
@@ -229,8 +194,7 @@ Typical themes covered in a DMP template
 6.  data sharing
 7.  responsibilities & resources
 
-Need inspiration?
------------------
+### Need inspiration?
 
 Have a look at existing templates, e.g.
 
@@ -240,193 +204,158 @@ Have a look at existing templates, e.g.
 Add customizations via the admin area
 -------------------------------------
 
--   but always try it out in the [**preview**](https://preview.dmponline.be) first!
+-   But always try it out in <https://preview.dmponline.be> first!
+    -   in the [preview environment](https://preview.dmponline.be), you can experiment without bothering end users
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_6_AdminInterface.png)
 
-Accessing the admin area
-------------------------
+### Accessing the admin area
 
--   sign in (for now, with local account)
--   right-click on "Signed in as \[your name\]" and select "admin area" from menu
+-   sign in
+-   right-click on "Signed in as \[your name\]" and select "Admin area" from the menu
+-   note: only users with organization admin rights can access the admin area
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_7_AccessingAdminArea.png)
 
-The admin area has 4 main menu items
-------------------------------------
+### The admin area has 4 main menu items
 
 1.  Templates
-
-    > -   create institutional templates or adapt funder templates
+    -   select this to create institutional templates or adapt funder templates
 
 2.  Guidance
-
-    > -   add themed guidance for (a subset within) your institution
+    -   select this to add themed guidance for (a subset within) your institution
 
 3.  Organisation details
-
-    > -   edit basic info about your institution
+    -   select this to edit basic info about your institution
 
 4.  Users
+    -   select this to see who is using *DMPonline.be* in your institution and how many DMPs they have created
 
-    > -   see who is using DMPonline.be in your institution
-    > -   see how many DMPs they have created
+### Editing organization details
 
-Editing organization details
-----------------------------
+-   select "Organisation details" and then "Edit" to add/modify information for your institution
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_8_EditingOrganizationDetails.png)
 
-View users
-----------
+### View users\`
+
+-   select the "Users" button to view DMPonline.be users in your institution
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_9_ViewUsers.png)
 
-Creating themed guidance
-------------------------
+-   user data can be exported in csv format by clicking the "Eport to CSV" button below the list of users.
 
--   best before adding institutional templates
+### Creating themed guidance
+
+-   best done before adding institutional templates
 -   guidance can then be drawn into your templates as you select associated themes
 -   steps:
+    1.  create a guidance group (to tell end users where the guidance comes from)
+    2.  add your guidance texts
 
-    > 1.  create a guidance group (tell end users where the guidance comes from)
-    > 2.  add your guidance texts
+#### Create a guidance group
 
-1. Create a guidance group
---------------------------
-
--   group can be your institution as a whole, or a subset within it
--   go to "Guidance" menu
+-   such a group can be your institution as a whole, or a subset within it
+-   go to the "Guidance" menu
 -   under "Guidance group list", click "Add guidance group"
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_10_AddGuidanceGroup.png)
 
-1. Create a guidance group
---------------------------
-
 -   add a name for your guidance group (this will appear on the templates)
--   select which templates you want guidance to display on (usually "all")
--   if guidance is only meant for subset of users, check "optional subset" box (users can opt in via "create plan" wizard)
+-   select which templates you want the guidance to display on (usually "all")
+-   if the guidance is only meant for a subset of users, check the "optional subset" box (end users can opt in to view this guidance via the "create plan" wizard)
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_11_GuidanceGroupDetails.png)
 
-*How users select guidance to display*
---------------------------------------
+##### How users select guidance to display
 
--   institution-wide guidance is presented to users when they select institution in "create plan" wizard
--   optional guidance is presented when they select "other source of guidance"
+-   institution-wide guidance is presented to end users when they select the institution in the "create plan" wizard
+-   optional guidance is presented when end users select it from "other source of guidance" in the "create plan" wizard
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_12_UserSelectGuidance.png)
 
-2. Add themed guidance texts
-----------------------------
+#### Add themed guidance texts
 
--   scroll down to "Guidance list" in "Guidance" menu
+-   scroll down to "Guidance list" in the "Guidance" menu
 -   click "Add guidance"
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_13_GuidanceList.png)
-
-2. Add themed guidance texts
-----------------------------
 
 -   in "New guidance", enter your guidance text
 -   choose to have guidance applied "by themes" (default), and select related theme(s)
 -   select which guidance group the guidance relates to ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_14_NewGuidance.png)
 
-Adding an institutional template
---------------------------------
+### Adding an institutional template
 
 -   institutional templates will be displayed to users in your organization when no funder template applies
 -   templates have 1 or more phases
 -   templates consist of any number of questions, grouped into sections
 
-Adding an institutional template - create
------------------------------------------
+#### Adding an institutional template - create
 
--   go to "Templates" menu
+-   go to the "Templates" menu
 -   under "Own templates", click "Create a template"
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_15_CreateTemplate.png)
 
-Adding an institutional template - create
------------------------------------------
-
 -   in "New template", enter a template title and description
--   template title will be visible to end users (in "create plan" wizard)
--   add a description for yourself, to distinguish between templates (title & description will appear in the "Own templates" list)
+-   the template title will be visible to end users (in the "create plan" wizard)
+-   add a description for yourself, to distinguish between templates (both title & description will appear in the "Own templates" list in the admin area)
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_16_NewTemplate.png)
 
-Adding an institutional template - add new phase
-------------------------------------------------
+#### Adding an institutional template - add new phase
 
--   after creating a new template, click "Edit template details" to change title & description
+-   after creating a new template, click "Edit template details" to change title & description if needed
 -   click the "Add new phase" tab to get started
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_17_AddNewPhase.png)
 
-Adding an institutional template - add new phase
-------------------------------------------------
-
 -   in "Phase details", enter a phase title (choose something generic if you only want 1 phase)
--   if applicable, choose order of display to order multiple phases
+-   if applicable, choose "Order of display" to order multiple phases
 -   add a basic phase description
--   phase title & description will be visible to end users
+-   the phase title & description will be visible to end users
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_18_PhaseDetails.png)
 
-Adding an institutional template - create version
--------------------------------------------------
+#### Adding an institutional template - create version
 
--   when saving Phase details, a first version is automatically created
+-   when saving the "Phase details"", a first version is automatically created
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_19_FirstVersionCreated.png)
 
-Adding an institutional template - add section
-----------------------------------------------
+#### Adding an institutional template - add section
 
--   under "Version details", you can change version title and add a description
--   to get started with adding sections & questions, click "Add section" button
+-   under "Version details", you can change the version title and add a description
+-   to get started with adding sections & questions, click the "Add section" button
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_20_VersionDetailsAddSection.png)
 
-Adding an institutional template - add section
-----------------------------------------------
+#### Adding an institutional template - add section
 
 -   enter a title for your section
--   choose "order of display" (allows you to order different sections)
+-   choose "Order of display" (allows you to order the different sections)
 -   if desired, add a basic description for the section (visible to end users)
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_21_AddSectionDetails.png)
 
-Adding an institutional template - add question
------------------------------------------------
+#### Adding an institutional template - add question
 
 -   once you have saved a new section, you can click "Add question"
--   you will be presented with options to add invididual questions
+-   you will be then presented with options to add invididual questions
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_22_AddQuestion.png)
 
-Adding an institutional template - add question
------------------------------------------------
-
--   To add a question, enter the following:
-
-    > -   **question number** (allows you to order questions withing a section)
-    > -   **text** of the question
-    > -   **answer format** (and any additional info required for specified format)
-    > -   **guidance** (question-specific)
-    > -   **theme(s)** associated with the question (to pull in themed guidance)
-
-*Question components in DMPonline.be*
--------------------------------------
+-   to add a question, enter the following:
+    -   **question number** (allows you to order questions within a section)
+    -   **text** of the question
+    -   **answer format** (and any additional info required for the specified format)
+    -   **guidance** (question-specific)
+    -   **theme(s)** associated with the question (to pull in themed guidance)
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_23_AddingQuestionsinDMPonline.png)
 
-Adding an institutional template - add question
------------------------------------------------
-
--   Choice of answer formats
+-   you have a choice of different answer formats:
 
 <table style="width:26%;">
 <colgroup>
@@ -467,77 +396,57 @@ Adding an institutional template - add question
 </tbody>
 </table>
 
-Adding an institutional template - preview
-------------------------------------------
+#### Adding an institutional template - preview
 
--   save questions after adding
+-   save the questions after adding them
 -   under "Versions", select "Preview" to get a sense of what your template will look like to end users
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_24_VersionSelectPreview.png)
 
-*Template preview*
-------------------
+##### Template preview
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_25_TemplatePreview.png)
 
-Adding an institutional template - publish
-------------------------------------------
+#### Adding an institutional template - publish
 
 -   once you are ready to publish your template, first go back to "Version details"
 -   tick the "Published" box and save
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_26_PublishVersion.png)
 
-Adding an institutional template - publish
-------------------------------------------
-
 -   then go back to the "Template details" tab and click "Edit template details"
 -   tick the "Published" box and save
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_27_PublishTemplate.png)
 
-Adding an institutional template - publish
-------------------------------------------
-
 -   your template will now appear as published in the "Own templates" list
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_28_OwnTemplatesPublished.png)
 
-Adding an institutional template - publish
-------------------------------------------
-
--   go to the user interface and choose "Create plan"
+-   to see what the template looks like for end users, go to the user interface and choose "Create plan"
 -   in the "create plan" wizard, select your organization
--   the new template appears in the "Choose a template" menu (if institution has more than 1 template)
+-   the new template now appears in the "Choose a template" menu (if your institution has more than one template)
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_29_TemplateInCreatePlanWizard.png)
 
-Adding an institutional template - publish
-------------------------------------------
-
--   if an institution only has one published template, it is automatically selected by the "create plan" wizard (when the institution is selected)
+-   if an institution only has one published template, it is automatically selected by the "create plan" wizard when the institution is selected
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_35_PublishSingleTemplate.png)
 
-Edit a published template
--------------------------
+#### Edit a published template
 
--   if you want to edit a published template, go to the Phase tab and choose to "Edit" the existing version
+-   if you want to edit a published template, go to the template's Phase tab in the admin area and choose to "Edit" the existing version
 -   when prompted, indicate whether you want to make small or big changes
 -   making big changes (e.g. adding questions, sections) requires creating a new version
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_30_EditPublishedVersion.png)
 
-Customizing funder templates
-----------------------------
+### Customizing funder templates
 
--   go to "Templates" menu
+-   go to the "Templates" menu
 -   under "Funders templates", go to the desired funder template and click "Customise"
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_31_CustomizingFunderTemplate.png)
-
-Customizing funder templates
-----------------------------
 
 -   click the Phase tab and scroll down to the Sections
 -   to add an answer, open up a section and click "Add suggested answer/example"
@@ -545,61 +454,7 @@ Customizing funder templates
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_32_FunderTemplateAddAnswer.png)
 
-Customizing funder templates
-----------------------------
-
 -   to add your own section, scroll down and click the "Add section" button below the existing sections
 -   to insert new sections and questions, proceed in the same way as when you create an institutional template
 
 ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_33_FunderTemplateAddSection.png)
-
-Practice
-========
-
-Live view of the [admin area](https://preview.dmponline.be/org/admin/templates/4/admin_index)
----------------------------------------------------------------------------------------------
-
-Have a go at adding a test institutional template
--------------------------------------------------
-
-1.  choose a test template and themed guidance to add
-
-    > -   either your own, or from DCC's [DMP checklist](http://www.dcc.ac.uk/sites/default/files/documents/resource/DMP/DMP_Checklist_2013.pdf) and [customization guide](http://www.dcc.ac.uk/sites/default/files/documents/tools/dmpOnline/DMPonline-admin-interface-guide.pdf)
-
-2.  sign in to the preview and go to the admin area
-3.  create a guidance group for your institution and add themed guidance
-
-    > -   try to add at least a couple of themes
-
-4.  create a new template based on the one you chose in step 1
-
-    > -   try to add at least a couple of questions
-
-5.  preview and then publish your template
-6.  go to the user interface, and try to create a new plan based on your test template
-
-Communication & flagging issues
--------------------------------
-
--   When we all start using the admin interface, we may run into questions or issues. How will we communicate these?
-
-    > -   preferably not via email...
-    > -   e.g. create a Slack team to ask questions, comment, raise issues? Any other suggestions?
-    >     ![](/Users/Myriam/OneDrive%20-%20UGent/RDMPlanning/DMPonline/DMPbelgium/Admins/Customizing_Manual/CustomizingDMPonline_34_SlackLogo.png)
-    > -   sometimes we will encounter bugs in the software (we'll get an error message). These will need to be flagged as issues in our DMPbelgium GitHub repo (<https://github.com/DMPbelgium/DMPonline_v4>)
-
-Q&A
-===
-
-Any questions or remarks?
--------------------------
-
--   about developing institutional templates/guidance
--   about the user or admin interface
--   about this work session
--   other?
-
-> -   Note: don't forget the resources in the 'DMPbelgium admins' Zotero group library!
-
-The end
-=======
